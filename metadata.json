@@ -1,0 +1,5 @@
+{
+  "name": "UserFriendly",
+  "description": "A real-time disaster response dashboard for monitoring alerts, managing resources, and dispatching rescue teams.",
+  "requestFramePermissions": []
+}
